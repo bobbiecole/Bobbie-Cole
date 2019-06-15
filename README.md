@@ -1,6 +1,5 @@
-![](https://media.licdn.com/dms/image/C5103AQGxZWkZQMuCFA/profile-displayphoto-shrink_200_200/0?e=1565827200&v=beta&t=TCmpZUi6ELPV3VEc2RVw-hHh9TR_vBUm45ibz4nOANA)
-
 ## My Profile
+![](https://media.licdn.com/dms/image/C5103AQGxZWkZQMuCFA/profile-displayphoto-shrink_200_200/0?e=1565827200&v=beta&t=TCmpZUi6ELPV3VEc2RVw-hHh9TR_vBUm45ibz4nOANA)
 
 **Nationality** Australian
 
@@ -18,6 +17,10 @@ I have always been intrigued by IT and advancements in technology, and the limit
 I chose to study with RMIT because of its reputation of a practical and hands on approach to learning...
 
 I hope that this degree will provide me with the knowledge and expertise to develop innovate business and support strategies and applications, and be able to apply these effectively...
+
+## Ideal Job
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for...
 
