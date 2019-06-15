@@ -1,3 +1,5 @@
+![](https://media.licdn.com/dms/image/C5103AQGxZWkZQMuCFA/profile-displayphoto-shrink_200_200/0?e=1565827200&v=beta&t=TCmpZUi6ELPV3VEc2RVw-hHh9TR_vBUm45ibz4nOANA)
+
 ## My Profile
 
 **Nationality** Australian
