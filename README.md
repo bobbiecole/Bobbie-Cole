@@ -31,6 +31,14 @@ I hope that this degree will provide me with the knowledge and expertise to deve
 
 ## Attribute Assessment
 
+### Myer-Briggs Test Results
+
+![](https://imgur.com/62b3VTY)
+
+### Learning Style Results
+
+![](https://imgur.com/EoQ1Suq)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for...
 
 ```markdown
