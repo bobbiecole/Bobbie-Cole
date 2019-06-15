@@ -1,12 +1,20 @@
 ## My Profile
 
-You can use the [editor on GitHub](https://github.com/bobbiecole/cole.assessment1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Nationality** Australian
+**Languages** English
+**Education to Date** Bachelor of Business, Bond University 2012 
+**Interesting fact** I was a competitive figure skater from a young age up until the end of 2017
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Interest In IT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have always been intrigued by IT and advancements in technology, and the limitless possibilities and applications it presents in all aspects of business and in our every-day lives. My interest in IT has grown over the years, as a creative Marketing professional...
+
+I chose to study with RMIT because of its reputation of a practical and hands on approach to learning...
+
+I hope that this degree will provide me with the knowledge and expertise to develop innovate business and support strategies and applications, and be able to apply these effectively...
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for...
 
 ```markdown
 Syntax highlighted code block
