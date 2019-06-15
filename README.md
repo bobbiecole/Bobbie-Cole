@@ -1,3 +1,5 @@
+title: Bobbie Cole
+description: S3799258   s3799258@student.rmit.edu.au
 ## My Profile
 
 You can use the [editor on GitHub](https://github.com/bobbiecole/cole.assessment1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
