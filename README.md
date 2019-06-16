@@ -14,11 +14,11 @@ Proudest professional achievement to date is having my article _Area's to Invest
 
 ## Interest In IT
 
-I have always been intrigued by IT and advancements in technology, and the limitless possibilities and applications it presents in all aspects of business and in our every-day lives. My interest in IT has grown over the years, as a creative Marketing professional...
+I have always been intrigued by IT and advancements in technology, and the limitless possibilities and applications it presents in all aspects of business and in our every-day lives. My interest in IT has grown over the years, as a Marketing professional, I am a creative. Even though visual or content creation is the majority of the work I do, I love developing ideas for technology platforms and applications that can be used to improve efficiencies or increase profits.
 
-I chose to study with RMIT because of its reputation of a practical and hands on approach to learning...
+I chose to study with RMIT because of its reputation of a practical and hands on approach to learning. I feel like this approach suits me best as I love 'doing while learning' and have ideas for projects that I would love to get started as soon as I can.
 
-I hope that this degree will provide me with the knowledge and expertise to develop innovate business and support strategies and applications, and be able to apply these effectively...
+I hope that by completign the Bachelor of IT, it will provide me with the knowledge and expertise to develop innovate business and support strategies and applications, and be able to apply these effectively accross business functions.
 
 ## Ideal Job
 
