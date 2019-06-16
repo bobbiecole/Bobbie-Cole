@@ -82,7 +82,7 @@ By housing all documentation this puts everything a franchisee needs to succeed 
 
 The function of the portal should be to support all key area’s of the business;  training, operations, franchisee support and news and updates which will each be individually outlined below. 
 
-  ### Training
+### Training
   
 When a new franchisee comes on board, there are various areas of training they undergo to launch their new business. Besides their ‘hands-on’ / field training, the below area’s would need to be included in an online interactive training portal. Overall the portal would need to have a function that allows franchisees to know where they are up to with their training by marking sections as complete and saving where they are up to. Upon completion of training, a certificate of completion is produced and sent to both the franchisor and franchisee. It would also need a function where franchisor staff can login to an admin portal and see where a new franchisee is up to with their training.
 
@@ -104,16 +104,16 @@ Because most franchisees have never ran their own business before, there is a ne
 Our business is a service-based business (real estate photography, floor plans, property videos), with the finished product being delivered through our online cloud-based platform to clients. 
 Franchisees need to undergo training of how to use the platform for uploading, invoicing and reporting. This section of the training would need to be hands-on i.e., having interactive activities where they do dummy uploads, produce invoices, and know how to use the system.
 
-**Operations**
+### Operations
 
 The operations aspect of the portal is where a franchisee would be able to access everything they need for the day-to-day operations of their business. It would house copies of operations manuals, marketing collateral including; brochures, business card templates and other visual collateral for printing, example social media posts etc., 
 The portal would also need an upload requirement where franchisees can send through all required documentation for a new employee to have them approved by the franchisor. 
 
-**Franchise Support**
+### Franchise Support
 
 This section of the portal would be a forum where franchisees can post topics, questions and ideas and have interaction within the network to support each other in their businesses. 
 
-  ### Tools & Technologies
+### Tools & Technologies
   
 The platform would require a web server and online hosting for the portal with enough memory space to hold documentation, files and videos. There would be a variety of open source tools required for the many functions needed within the platform for example, a communication tool for the implementation of the forum and news feeds. 
 
