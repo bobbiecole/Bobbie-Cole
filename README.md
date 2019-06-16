@@ -7,8 +7,8 @@
 
 **Education to Date** Bachelor of Business, Bond University 2012 
 
-**Professional Acheievments** Article published in the Expert Advice setion of Business Franchise Magazine
-![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Magazine%20Cover.jpg?raw=true)
+Proudest professional achievement to date is having my article _Area's to Investigate When Buying a Franchise_, published in the Expert Advice setion of Business Franchise Magazine
+![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/mag%20cover%20and%20article.png?raw=true)
 
 
 
