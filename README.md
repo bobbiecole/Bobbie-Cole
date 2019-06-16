@@ -61,7 +61,7 @@ For this position, I would need to gain a greater understanding of IT systems, p
 
 ![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Big5.png?raw=true)
 
-##Personal Reflection of Results
+## Personal Reflection of Results
 
 For me, these results show that I am a strong leader with exceptional skills when it comes to organising, conceiving ideas and starting projects. Unfortunately I may lack the practical skills to keep up with the technical aspects and would fit best in a team with hands-on people who have the ability to push the project along and understand and develop the finer details. 
 
