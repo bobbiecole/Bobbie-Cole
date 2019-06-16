@@ -138,6 +138,16 @@ The franchise support, news and updates will hopefully aid in building the compa
 I believe the development of this portal will improve compliance across the franchise network, increase efficiencies for both the franchisor and franchisees, allowing both the head office team and franchisees to focus on business building and profit producing  activities.
 
 
+## References
+
+https://www.seek.com.au/job/39236114?type=standout&searchrequesttoken=27e84c42-85cd-4a28-8dad-84c7c8b7ca07
+
+https://www.123test.com/report/CBZOLXGVLJ2LG7EDQD/
+
+https://www.16personalities.com/enfp-strengths-and-weaknesses
+
+https://www.howtolearn.com/learning-styles-quiz/htl_quiz_results.php?uid=8EF3F4D1-79E9-1FC7-F061-EF0317D8A987&share=t
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for...
 
