@@ -34,6 +34,18 @@ See [Seek **Xero** _Marketing Platform Systems Manager_](https://www.seek.com.au
 
 ![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Xero5.PNG?raw=true)
 
+**About the Role**
+The above role is one that combines marketing experience and knowledge with IT to develop a business platform for small businesses. This role appeals to me as I would be able to combine my love of marketing with my desire to be able to design and implement IT infrastructure for business applications.
+
+**Skills Required**
+Besides a strong marketing backgroud, this role would require a deep understanding of how to design and devlelop software and platforms while also keeping in line with Xero's current platforms and offerings.
+
+**Current Skills**
+The current skills I possess are extensive marketing knowledge, management and business development. 
+
+**Skills Gap**
+For this position, I would need to gain a greater understanding of IT systems, processes and development.
+
 
 # Attribute Assessments
 
