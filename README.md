@@ -44,7 +44,7 @@ Besides a strong marketing backgroud, this role would require a deep understandi
 The current skills I possess are extensive marketing knowledge, management and business development. 
 
 **Skills Gap**
-For this position, I would need to gain a greater understanding of IT systems, processes and development.
+For this position, I would need to gain a greater understanding of IT systems, processes and development. My professional development plan to obtain this type of role would be to research the company and particularly their systems and platforms, as well as continue IT studies to be able to develop, design and implement the required infrastructure. 
 
 
 # Attribute Assessments
