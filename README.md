@@ -34,7 +34,7 @@ I hope that this degree will provide me with the knowledge and expertise to deve
 
 ### Myer-Briggs Test Results
 
-![](https://imgur.com/62b3VTY)
+![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Myer%20Briggs%20Test.PNG)
 
 ### Learning Style Results
 
