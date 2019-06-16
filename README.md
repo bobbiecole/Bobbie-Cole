@@ -21,6 +21,9 @@ I hope that this degree will provide me with the knowledge and expertise to deve
 ## Ideal Job
 ![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/xero%20title.PNG?raw=true)
 
+https://github.com/bobbiecole/Bobbie-Cole/blob/master/Xero2.PNG
+
+
 ## Attribute Assessment
 
 ### Myer-Briggs Test Results
