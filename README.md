@@ -7,7 +7,8 @@
 
 **Education to Date** Bachelor of Business, Bond University 2012 
 
-**Interesting fact** I was a competitive figure skater from a young age up until the end of 2017
+**Professional Acheievments** Article published in the Expert Advice setion of Business Franchise Magazine
+
 
 
 ## Interest In IT
