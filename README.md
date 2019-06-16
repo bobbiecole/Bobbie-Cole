@@ -19,15 +19,7 @@ I chose to study with RMIT because of its reputation of a practical and hands on
 I hope that this degree will provide me with the knowledge and expertise to develop innovate business and support strategies and applications, and be able to apply these effectively...
 
 ## Ideal Job
-![](https://imgur.com/nclBTSk)
-
-![](https://imgur.com/6BooZhh)
-
-![](https://imgur.com/F20ZsMI)
-
-![](https://imgur.com/BuIH2os)
-
-![](https://imgur.com/U6dNJGT)
+![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/xero%20title.PNG?raw=true)
 
 ## Attribute Assessment
 
