@@ -18,7 +18,7 @@ I have always been intrigued by IT and advancements in technology, and the limit
 
 I chose to study with RMIT because of its reputation of a practical and hands on approach to learning. I feel like this approach suits me best as I love 'doing while learning' and have ideas for projects that I would love to get started as soon as I can.
 
-I hope that by completign the Bachelor of IT, it will provide me with the knowledge and expertise to develop innovate business and support strategies and applications, and be able to apply these effectively accross business functions.
+I hope that by completign the Bachelor of IT, it will provide me with the knowledge and expertise to develop innovative business and support strategies and applications, and be able to apply these effectively accross business functions.
 
 ## Ideal Job
 
