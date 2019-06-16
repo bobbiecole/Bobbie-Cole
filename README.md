@@ -23,22 +23,22 @@ I hope that this degree will provide me with the knowledge and expertise to deve
 
 ![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Xero2.PNG?raw=true)
 
-![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Xero3.PNG)
+![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Xero3.PNG?raw=true)
 
-![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Xero4.PNG)
+![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Xero4.PNG?raw=true)
 
-![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Xero5.PNG)
+![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Xero5.PNG?raw=true)
 
 
 ## Attribute Assessment
 
 ### Myer-Briggs Test Results
 
-![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Myer%20Briggs%20Test.PNG)
+![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Myer%20Briggs%20Test.PNG?raw=true)
 
 ### Learning Style Results
 
-![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Learning%20Style%20chart.png)
+![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Learning%20Style%20chart.png?raw=true)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for...
 
