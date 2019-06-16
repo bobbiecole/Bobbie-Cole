@@ -41,7 +41,7 @@ The above role is one that combines marketing experience and knowledge with IT t
 Besides a strong marketing backgroud, this role would require a deep understanding of how to design and devlelop software and platforms while also keeping in line with Xero's current platforms and offerings.
 
 **Current Skills**
-The current skills I possess are extensive marketing knowledge, management and business development. 
+The current skills I possess are extensive marketing knowledge, management, leadership and business development. 
 
 **Skills Gap**
 For this position, I would need to gain a greater understanding of IT systems, processes and development. My professional development plan to obtain this type of role would be to research the company and particularly their systems and platforms, as well as continue IT studies to be able to develop, design and implement the required infrastructure. 
