@@ -38,7 +38,7 @@ I hope that this degree will provide me with the knowledge and expertise to deve
 
 ### Learning Style Results
 
-![](https://imgur.com/EoQ1Suq)
+![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Learning%20Style%20chart.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for...
 
