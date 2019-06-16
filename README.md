@@ -7,7 +7,7 @@
 
 **Education to Date** Bachelor of Business, Bond University 2012 
 
-Proudest professional achievement to date is having my article _Area's to Investigate When Buying a Franchise_, published in the Expert Advice setion of Business Franchise Magazine
+Proudest professional achievement to date is having my article _Area's to Investigate When Buying a Franchise_, published in the Expert Advice setion of Business Franchise Magazine.
 ![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/mag%20cover%20and%20article.png?raw=true)
 
 
@@ -35,7 +35,7 @@ See [Seek **Xero** _Marketing Platform Systems Manager_](https://www.seek.com.au
 ![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Xero5.PNG?raw=true)
 
 **About the Role**
-The above role is one that combines marketing experience and knowledge with IT to develop a business platform for small businesses. This role appeals to me as I would be able to combine my love of marketing with my desire to be able to design and implement IT infrastructure for business applications.
+The above role is one that combines marketing experience and knowledge with IT to develop a platform for small businesses. This role appeals to me as I would be able to combine my love of marketing with my desire to be able to design and implement IT infrastructure for business applications.
 
 **Skills Required**
 Besides a strong marketing backgroud, this role would require a deep understanding of how to design and devlelop software and platforms while also keeping in line with Xero's current platforms and offerings.
