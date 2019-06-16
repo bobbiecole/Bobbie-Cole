@@ -8,6 +8,7 @@
 **Education to Date** Bachelor of Business, Bond University 2012 
 
 **Professional Acheievments** Article published in the Expert Advice setion of Business Franchise Magazine
+![](https://github.com/bobbiecole/Bobbie-Cole/blob/master/Magazine%20Cover.jpg?raw=true)
 
 
 
